@@ -39,8 +39,6 @@
 
 </div>
 
-<br>
-
 ---
 
 ## 🧑‍💻 About Me
@@ -100,8 +98,6 @@ I enjoy transforming raw data into **meaningful insights, developing predictive 
     </tr>
   </tbody>
 </table>
-
-<br/>
 
 ---
 
@@ -290,13 +286,13 @@ Exploring machine learning, AI-powered applications, predictive models, and prac
 
 ---
 
-## 📜 Certifications &amp; Experience
+## 📜 Certifications
 
 <table>
   <thead>
     <tr>
-      <th width="45%" align="left">Certification / Program</th>
-      <th width="30%" align="left">Issuing Organization</th>
+      <th width="45%" align="left">Certification Name</th>
+      <th width="30%" align="left">Description</th>
       <th width="25%" align="center">Status</th>
     </tr>
   </thead>
@@ -316,27 +312,36 @@ Exploring machine learning, AI-powered applications, predictive models, and prac
       </td>
     </tr>
     <tr>
-      <td><b>Diploma in Digital Techniques Application</b></td>
-      <td>Youth Computer Training Centre</td>
+      <td><b>C, Java & Python Programming Course</b></td>
+      <td>10-month MSME-certified C, Java & Python course at Amity Computer Academy.</td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Verified-Youth Computer Training Centre-2EC866?style=flat-square&logo=yctc&logoColor=white" />
+        <a href="https://drive.google.com/file/d/184DESLKvkNa7_qD0jCXeeN5zDQWqOaNI/view?usp=sharing">
+          <img src="https://img.shields.io/badge/MSME%20Certified-View%20Certificate-0284C7?style=flat-square" />
+        </a>
       </td>
     </tr>
     <tr>
-      <td><b>JAVA (Basic)</b></td>
-      <td>HackerRank</td>
+      <td><b>Diploma in Digital Techniques Application (DDTA)</b></td>
+      <td>MS Office, HTML, C, Java & computer basics at Youth Computer Training Centre.</td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Verified-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+        <a href="https://drive.google.com/file/d/1cQU_0d8hUPeoLEyWbQAocm6WgAOSQDOL/view?usp=sharing">
+          <img src="https://img.shields.io/badge/DDTA-View%20Certificate-00AAFF?style=flat-square" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>JAVA (Basic) — HackerRank</b></td>
+      <td>JAVA certification (Oct 09, 2025 • ID: `34AABBD954CC`).</td>
+      <td align="center">
+        <a href="https://www.hackerrank.com/certificates/34aabbd954cc">
+          <img src="https://img.shields.io/badge/JAVA-View%20Certificate-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+        </a>
       </td>
     </tr>
   </tbody>
 </table>
 
-<br/>
-
 ---
-
-<br/>
 
 ## 🌐 Languages
 
@@ -349,8 +354,6 @@ Exploring machine learning, AI-powered applications, predictive models, and prac
 | **Bengali** | Native | Primary language &amp; native fluency |
 
 </div>
-
-<br/>
 
 ---
 
