@@ -331,7 +331,7 @@ Exploring machine learning, AI-powered applications, predictive models, and prac
     </tr>
     <tr>
       <td><b>JAVA (Basic) — HackerRank</b></td>
-      <td>JAVA certification (Oct 09, 2025 • ID: `34AABBD954CC`).</td>
+      <td>JAVA certification (Oct 09, 2025 • ID: 34AABBD954CC).</td>
       <td align="center">
         <a href="https://www.hackerrank.com/certificates/34aabbd954cc">
           <img src="https://img.shields.io/badge/JAVA-View%20Certificate-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
