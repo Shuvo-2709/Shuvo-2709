@@ -7,6 +7,9 @@
 </a>
 
 <br>
+<a href="mailto:sahashuvajit213@gmail.com">
+  <img src="https://img.shields.io/badge/Email-sahashuvajit213@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+</a>
 
 <a href="https://www.linkedin.com/in/shuvajit-saha-981070328/">
   <img src="https://img.shields.io/badge/LinkedIn-Shuvajit%20Saha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" >
@@ -40,7 +43,7 @@
 
 ---
 
-## 👋 About Me
+## 🧑‍💻 About Me
 
 I am a **B.Tech Computer Science and Engineering** student at **Techno India University, West Bengal**, with hands-on experiences in **Artificial Intelligence, Machine Learning, Data Analytics, and Software Development**.
 
@@ -58,7 +61,7 @@ I enjoy transforming raw data into **meaningful insights, developing predictive 
       <th width="45%" align="left">Degree &amp; Program</th>
       <th width="35%" align="left">Institution</th>
       <th width="10%" align="center">Duration</th>
-      <th width="10%" align="center">CGPA</th>
+      <th width="10%" align="center">Score</th>
     </tr>
   </thead>
   <tbody>
@@ -68,10 +71,32 @@ I enjoy transforming raw data into **meaningful insights, developing predictive 
       </td>
       <td>
         <b>Techno India University</b><br/>
-        <sub>West Bengal, India</sub>
+        <sub>Kolkata, West Bengal, India</sub>
       </td>
       <td align="center"><b>2023 – Present</b></td>
-      <td align="center"><b>8.57</b></td>
+      <td align="center"><b>8.57 / 10.0 CGPA</b></td>
+    </tr>
+    <tr>
+      <td>
+        <b>Higher Secondary Education(Class XII)</b><br/>
+      </td>
+      <td>
+        <b>Taki House, Govt. Sponsored Multipurpose School (Boys)</b><br/>
+        <sub>Kolkata, West Bengal, India</sub>
+      </td>
+      <td align="center"><b>2021 – 2023</b></td>
+      <td align="center"><b>78.8%</b></td>
+    </tr>
+    <tr>
+      <td>
+        <b>Secondary Education (Class X)</b><br/>
+      </td>
+      <td>
+        <b>The Scottish Church Collegiate School</b><br/>
+        <sub>Kolkata, West Bengal, India</sub>
+      </td>
+      <td align="center"><b>2015 – 2021</b></td>
+      <td align="center"><b>76.86%</b></td>
     </tr>
   </tbody>
 </table>
@@ -360,12 +385,16 @@ Exploring machine learning, AI-powered applications, predictive models, and prac
 
 I'm always interested in discussing **Machine Learning, Data Analytics, Software Development, and innovative technology projects.**
 
+<a href="mailto:sahashuvajit213@gmail.com">
+  <img src="https://img.shields.io/badge/Email-sahashuvajit213%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
+</a>
+
 <a href="https://www.linkedin.com/in/shuvajit-saha-981070328/">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" >
 </a>
 &nbsp;
 <a href="https://github.com/Shuvo-2709">
-  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" >
 </a>
 
 <br><br>
