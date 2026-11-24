@@ -7,25 +7,20 @@
 </a>
 
 <br>
-<a href="mailto:sahashuvajit213@gmail.com">
-  <img src="https://img.shields.io/badge/Email-sahashuvajit213@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/shuvajit-saha-981070328/">
-  <img src="https://img.shields.io/badge/LinkedIn-Shuvajit%20Saha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" >
-</a>
-&nbsp;
-<a href="https://github.com/Shuvo-2709">
-  <img src="https://img.shields.io/badge/GitHub-Shuvo--2709-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" >
-</a>
- &nbsp;
-<a href="https://shuvo-2709.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-Check-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" >
-</a>
-    <img src="https://komarev.com/ghpvc/?username=Shuvo-2709&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
-
-
-<br>
+<p>
+  <a href="mailto:sahashuvajit213@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sahashuvajit213@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="gmail" height="26"/></a>
+  
+  <a href="https://www.linkedin.com/in/shuvajit-saha-981070328/">
+    <img src="https://img.shields.io/badge/LinkedIn-Shuvajit%20Saha-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="linkedin" height="26" /></a>
+  
+  <a href="https://github.com/Shuvo-2709">
+    <img src="https://img.shields.io/badge/GitHub-Shuvo--2709-181717?style=flat&logo=github&logoColor=white" alt="github" height="26" /></a>
+  <br>
+  <a href="https://shuvo-2709.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Check-58A6FF?style=flat&logo=googlechrome&logoColor=white" alt="portfolio"height="26" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Shuvo-2709&label=Profile%20Views&color=38BDF8&style=flat" height="26" />
+</p>
 
 <!-- Table of Contents Navigation -->
 <p align="center">
@@ -347,15 +342,11 @@ Exploring machine learning, AI-powered applications, predictive models, and prac
 
 ## 🌐 Languages
 
-<div align="center">
-
 | Language | Proficiency Level | Capabilities |
 | :--- | :--- | :--- |
 | **English** | Professional | Technical documentation, team reporting &amp; presentations |
 | **Hindi** | Professional | Fluent professional &amp; interpersonal communication |
 | **Bengali** | Native | Primary language &amp; native fluency |
-
-</div>
 
 ---
 
@@ -391,16 +382,13 @@ Exploring machine learning, AI-powered applications, predictive models, and prac
 I'm always interested in discussing **Machine Learning, Data Analytics, Software Development, and innovative technology projects.**
 
 <a href="mailto:sahashuvajit213@gmail.com">
-  <img src="https://img.shields.io/badge/Email-sahashuvajit213%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
-</a>
-
+  <img src="https://img.shields.io/badge/Email-sahashuvajit213%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"></a>
+&nbsp;
 <a href="https://www.linkedin.com/in/shuvajit-saha-981070328/">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" >
-</a>
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" ></a>
 &nbsp;
 <a href="https://github.com/Shuvo-2709">
-  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" >
-</a>
+  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" ></a>
 
 <br><br>
 
