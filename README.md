@@ -22,6 +22,8 @@
 <a href="https://shuvo-2709.github.io/Portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-Check-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" >
 </a>
+    <img src="https://komarev.com/ghpvc/?username=Shuvo-2709&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
+
 
 <br>
 
